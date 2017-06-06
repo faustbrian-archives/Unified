@@ -1,7 +1,7 @@
 {
     "name": "faustbrian/unified",
     "description": "Unified provides a common interface for building API Clients",
-    "keywords": ["laravel", "framework", "api", "unified", "Brian Faust", "faustbrian"],
+    "keywords": ["api", "unified", "Brian Faust", "faustbrian"],
     "license": "MIT",
     "authors": [{
         "name": "Brian Faust",
